@@ -35,3 +35,9 @@ async def eliminar(request:Request, id:str):
 
 def TestRemote():
     pass
+
+def TestRemote2():
+    pass
+
+def TestRemote3():
+    pass
