@@ -64,3 +64,6 @@ def LocalEdit2():
 
 def RE():
     pass
+
+def RE2():
+    pass
