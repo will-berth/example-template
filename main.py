@@ -51,3 +51,6 @@ def TestRemote3():
 
 def RemoteEdit():
     pass
+
+def RemoteEdit2():
+    pass
