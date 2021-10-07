@@ -67,3 +67,6 @@ def RE():
 
 def RE2():
     pass
+
+def klasjdfk():
+    pass
