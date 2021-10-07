@@ -32,3 +32,6 @@ async def agregar(request: Request):
 async def eliminar(request:Request, id:str):
     del datos[id]
     return RedirectResponse('/', 303)
+
+def TestRemote():
+    pass
